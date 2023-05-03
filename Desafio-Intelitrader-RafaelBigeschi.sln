@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio-Intelitrader-RafaelBigeschi", "Desafio-Intelitrader-RafaelBigeschi.csproj", "{0B4126FC-4614-4236-9E26-0EA5B2666D44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B4126FC-4614-4236-9E26-0EA5B2666D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4126FC-4614-4236-9E26-0EA5B2666D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4126FC-4614-4236-9E26-0EA5B2666D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4126FC-4614-4236-9E26-0EA5B2666D44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51F81DF2-BEFB-4EB0-B8EE-FF041DC2BCC4}
+	EndGlobalSection
+EndGlobal

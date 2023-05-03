@@ -1,0 +1,48 @@
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.exe
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.deps.json
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.runtimeconfig.json
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.runtimeconfig.dev.json
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\ref\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.pdb
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.AssemblyInfo.cs
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\ref\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.pdb
+C:\Users\User\Desktop\Desafio Intelitrader\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.genruntimeconfig.cache
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.exe
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.deps.json
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.runtimeconfig.json
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.runtimeconfig.dev.json
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\ref\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.pdb
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.AssemblyInfo.cs
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\ref\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.pdb
+C:\Users\User\Desktop\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.genruntimeconfig.cache
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.exe
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.deps.json
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.runtimeconfig.json
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.runtimeconfig.dev.json
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\ref\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\bin\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.pdb
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.csproj.AssemblyReference.cache
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.AssemblyInfoInputs.cache
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.AssemblyInfo.cs
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.csproj.CoreCompileInputs.cache
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\ref\Desafio-Intelitrader-RafaelBigeschi.dll
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.pdb
+C:\Users\User\3D Objects\Desafio-Intelitrader-RafaelBigeschi\obj\Debug\net5.0\Desafio-Intelitrader-RafaelBigeschi.genruntimeconfig.cache
